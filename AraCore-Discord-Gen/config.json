@@ -1,0 +1,5 @@
+{
+    "token": "Bot Token",
+    "prefix": "/",
+    "botChannel": "Channel ID where you want the Bot work in"
+  }
